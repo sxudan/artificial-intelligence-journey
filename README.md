@@ -1,2 +1,7 @@
-## Description
+## Deep Learning
 
+https://github.com/sxudan/artificial-intelligence-journey/blob/main/Deep_Learning.ipynb
+
+## Convolution Neural Network
+
+https://github.com/sxudan/artificial-intelligence-journey/blob/main/Convolution_Neural_Network.ipynb
