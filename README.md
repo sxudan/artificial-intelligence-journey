@@ -6,6 +6,14 @@ https://github.com/sxudan/artificial-intelligence-journey/blob/main/Introduction
 
 https://github.com/sxudan/artificial-intelligence-journey/blob/main/Introductions/Convolution_Neural_Network.ipynb
 
+## Pattern Prediction
+
+### Model that Generates grayscale image
+
+![image](https://github.com/sxudan/artificial-intelligence-journey/assets/31989781/d03dee6a-1a6f-4372-b077-150684ec1336)
+
+https://github.com/sxudan/artificial-intelligence-journey/blob/main/Transformation/blackandwhite.ipynb
+
 ## GAN Architecture
 
 A Generative Adversarial Network (GAN) is a type of artificial intelligence model used in unsupervised machine learning, particularly for generating new data samples from a given distribution.
