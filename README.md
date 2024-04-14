@@ -26,4 +26,7 @@ U-Net: U-Net is a popular architecture that consists of an encoder-decoder struc
 
 DeepLab: DeepLab is based on the atrous convolution (also known as dilated convolution) and employs techniques like atrous spatial pyramid pooling for capturing multi-scale context.
 
+![image](https://github.com/sxudan/artificial-intelligence-journey/assets/31989781/18c5be6e-1054-4515-824d-b097627958cc)
+
+
 https://github.com/sxudan/artificial-intelligence-journey/tree/main/Segmentation
