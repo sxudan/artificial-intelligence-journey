@@ -1,2 +1,8 @@
 **/dogs/
 **/grayscale_dogs
+*.jpg
+*.jpeg
+*.png
+*.h5
+*.tflite
+__pycache__
