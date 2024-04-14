@@ -4,11 +4,15 @@ This is just my personal notes where I put my research resources. This is basica
 
 ## Deep Learning
 
-https://github.com/sxudan/artificial-intelligence-journey/blob/main/Introductions/Deep_Learning.ipynb
+https://github.com/sxudan/artificial-intelligence-journey/blob/main/Introductions/Deep_Learning.ipynb]
 
 ## Convolution Neural Network
 
 https://github.com/sxudan/artificial-intelligence-journey/blob/main/Introductions/Convolution_Neural_Network.ipynb
+
+## Image Classification
+
+https://github.com/sxudan/artificial-intelligence-journey/blob/main/Classification/dogvscat.ipynb
 
 ## Pattern Prediction
 
