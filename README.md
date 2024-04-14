@@ -1,3 +1,7 @@
+# Introduction
+
+This is just my personal notes where I put my research resources. This is basically my journey from a noob.
+
 ## Deep Learning
 
 https://github.com/sxudan/artificial-intelligence-journey/blob/main/Introductions/Deep_Learning.ipynb
